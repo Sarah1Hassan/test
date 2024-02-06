@@ -1,1 +1,1 @@
-prinvk Sarah
+Print("Hello World")
